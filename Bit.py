@@ -1,5 +1,3 @@
-from token import PLUS
-
 
 def PlusOne(a):
     if (a == "X++" or a == "++X"):
